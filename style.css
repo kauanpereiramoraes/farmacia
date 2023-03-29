@@ -13,13 +13,13 @@ body {
 }
 
 #menu {/*Formatação do menu*/
-	background: #c5c5c5b2;
+	background: #FF0000;
 	/*border: 1px solid red; Borda sólida na div*/
 	padding: 18px; display: flex /*Espaçamento interna div*/
 }
 
 #conteudo {
-	background: #c5c5b2;
+	background: #FF1493;
 	padding: 10px;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 a { /*Formatação dos links*/
-	color: #4b566a;
+	color: #FF0000;
 	text-decoration: none;
 	font-weight: bold;
 	padding: 5px;
